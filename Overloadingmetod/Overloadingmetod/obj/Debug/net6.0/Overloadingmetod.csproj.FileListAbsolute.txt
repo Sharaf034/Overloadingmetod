@@ -1,0 +1,15 @@
+C:\Users\shara\OneDrive\Рабочий стол\Overloadingmetod\homeworkoverloadin\Overloadingmetod\Overloadingmetod\bin\Debug\net6.0\Overloadingmetod.exe
+C:\Users\shara\OneDrive\Рабочий стол\Overloadingmetod\homeworkoverloadin\Overloadingmetod\Overloadingmetod\bin\Debug\net6.0\Overloadingmetod.deps.json
+C:\Users\shara\OneDrive\Рабочий стол\Overloadingmetod\homeworkoverloadin\Overloadingmetod\Overloadingmetod\bin\Debug\net6.0\Overloadingmetod.runtimeconfig.json
+C:\Users\shara\OneDrive\Рабочий стол\Overloadingmetod\homeworkoverloadin\Overloadingmetod\Overloadingmetod\bin\Debug\net6.0\Overloadingmetod.dll
+C:\Users\shara\OneDrive\Рабочий стол\Overloadingmetod\homeworkoverloadin\Overloadingmetod\Overloadingmetod\bin\Debug\net6.0\Overloadingmetod.pdb
+C:\Users\shara\OneDrive\Рабочий стол\Overloadingmetod\homeworkoverloadin\Overloadingmetod\Overloadingmetod\obj\Debug\net6.0\Overloadingmetod.csproj.AssemblyReference.cache
+C:\Users\shara\OneDrive\Рабочий стол\Overloadingmetod\homeworkoverloadin\Overloadingmetod\Overloadingmetod\obj\Debug\net6.0\Overloadingmetod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shara\OneDrive\Рабочий стол\Overloadingmetod\homeworkoverloadin\Overloadingmetod\Overloadingmetod\obj\Debug\net6.0\Overloadingmetod.AssemblyInfoInputs.cache
+C:\Users\shara\OneDrive\Рабочий стол\Overloadingmetod\homeworkoverloadin\Overloadingmetod\Overloadingmetod\obj\Debug\net6.0\Overloadingmetod.AssemblyInfo.cs
+C:\Users\shara\OneDrive\Рабочий стол\Overloadingmetod\homeworkoverloadin\Overloadingmetod\Overloadingmetod\obj\Debug\net6.0\Overloadingmetod.csproj.CoreCompileInputs.cache
+C:\Users\shara\OneDrive\Рабочий стол\Overloadingmetod\homeworkoverloadin\Overloadingmetod\Overloadingmetod\obj\Debug\net6.0\Overloadingmetod.dll
+C:\Users\shara\OneDrive\Рабочий стол\Overloadingmetod\homeworkoverloadin\Overloadingmetod\Overloadingmetod\obj\Debug\net6.0\refint\Overloadingmetod.dll
+C:\Users\shara\OneDrive\Рабочий стол\Overloadingmetod\homeworkoverloadin\Overloadingmetod\Overloadingmetod\obj\Debug\net6.0\Overloadingmetod.pdb
+C:\Users\shara\OneDrive\Рабочий стол\Overloadingmetod\homeworkoverloadin\Overloadingmetod\Overloadingmetod\obj\Debug\net6.0\Overloadingmetod.genruntimeconfig.cache
+C:\Users\shara\OneDrive\Рабочий стол\Overloadingmetod\homeworkoverloadin\Overloadingmetod\Overloadingmetod\obj\Debug\net6.0\ref\Overloadingmetod.dll
